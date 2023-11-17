@@ -1,0 +1,26 @@
+.header-custom {
+    width: 100vw;
+    background-color: #A8D6FD;
+}
+
+.loading {
+    position: fixed;
+    min-height: 100vh;
+    min-width: 100vw;
+    width: 100%;
+    height: 100%;
+    background-color: #2f2e2e5f;
+    top: 0;
+    left: 0;
+    z-index: 100;
+}
+
+.loading-icon{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.styles_react-code-input__CRulA{
+    display: flex;
+}
